@@ -1,4 +1,4 @@
-# python-flask-docker
+# python-flask
 Basic Python Flask app in Docker which prints the hostname and IP of the container
 
 ### Build application
@@ -10,7 +10,7 @@ $ docker build -t rbizzell40/python-flask .
 ### Download precreated image
 You can also just download the existing image from [DockerHub](https://cloud.docker.com/u/rbizzell40/repository/docker/rbizzell40/python-flask/).
 ```
-docker pull lvthillo/python-flask-docker
+docker pull rbizzell40/python-flask
 ```
 
 ### Run the container
